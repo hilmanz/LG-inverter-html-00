@@ -1,0 +1,7 @@
+/****** CUSTOM STYLES HERE ******/
+.flip-clock-wrapper {
+	font: normal 11px "Open Sans", Helvetica, sans-serif;
+}
+span.flip-clock-divider .hours {
+	display: none !important;
+}
